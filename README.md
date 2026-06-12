@@ -1,2 +1,4 @@
 # emchub-osrs-icons
-Includes the osrs icons as well as the custom made ones made for EMCHub, of course don't use this for anything commercially since I do not own the normal icons...
+Includes the custom osrs icons made for EMCHub mcMMO stats if anyone wants to use them for that as well.
+
+<img width="364" height="470" alt="ima222ge" src="https://github.com/user-attachments/assets/eedcc9a2-7d50-4433-a4f8-f5d7fa9293ee" />
